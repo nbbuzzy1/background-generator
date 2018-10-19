@@ -37,7 +37,7 @@ button {
   background: rgba(0,0,0,.5);
   color: #FDFDFD;
   border: none;
-  font-weight: bold;
+  font-weight: 600;
   width: 60px;
   height: 35px;
 }
@@ -45,5 +45,5 @@ button {
 button:hover {
   color: gold;
   cursor: pointer;
-  font-weight: bold;
+  font-weight: 600;
 }
