@@ -35,8 +35,9 @@ input {
 
 button {
   background: rgba(0,0,0,.5);
-  color: white;
+  color: #FDFDFD;
   border: none;
+  font-weight: bold;
   width: 60px;
   height: 35px;
 }
@@ -44,4 +45,5 @@ button {
 button:hover {
   color: gold;
   cursor: pointer;
+  font-weight: bold;
 }
